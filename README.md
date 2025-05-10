@@ -100,6 +100,12 @@ local-rag-system/
 └── docker-compose.yml
 ```
 
+## Documentation
+
+- [Architecture Overview](docs/architecture.md)
+- [Implementation Plan](docs/implementation_plan.md)
+- [Usage Guide](#usage)
+
 ## Tech Stack
 
 | Component        | Technology                     |
