@@ -19,51 +19,51 @@ Document Input → Text Parsing → Text Chunking → Embeddings → Vector Stor
 - [x] Create .gitignore
 - [x] Create README.md
 - [x] Create implementation_plan.md
-- [ ] Create requirements.txt
-- [ ] Create configuration module
+- [x] Create requirements.txt
+- [x] Create configuration module
 
 ### Phase 2: Document Ingestion
 
-- [ ] Implement PDF loader (PyPDFLoader)
-- [ ] Implement TXT loader (DirectoryLoader)
-- [ ] Create unified document pipeline
+- [x] Implement PDF loader (PyPDFLoader)
+- [x] Implement TXT loader (DirectoryLoader)
+- [x] Create unified document pipeline
 
 ### Phase 3: Text Processing
 
-- [ ] Implement RecursiveCharacterTextSplitter
-- [ ] Configure chunk size and overlap
-- [ ] Add preprocessing utilities
+- [x] Implement RecursiveCharacterTextSplitter
+- [x] Configure chunk size and overlap
+- [x] Add preprocessing utilities
 
 ### Phase 4: Embeddings
 
-- [ ] Set up HuggingFace MiniLM-L6-v2
-- [ ] Create embedding pipeline
-- [ ] Test embedding generation
+- [x] Set up HuggingFace MiniLM-L6-v2
+- [x] Create embedding pipeline
+- [x] Test embedding generation
 
 ### Phase 5: Vector Storage
 
-- [ ] Configure Pinecone connection
-- [ ] Implement vector indexing
-- [ ] Create upsert/query functions
+- [x] Configure Pinecone connection
+- [x] Implement vector indexing
+- [x] Create upsert/query functions
 
 ### Phase 6: Retrieval & Generation
 
-- [ ] Implement RetrievalQA chain
-- [ ] Set up FLAN-T5-Base LLM
-- [ ] Create query interface
+- [x] Implement RetrievalQA chain
+- [x] Set up FLAN-T5-Base LLM
+- [x] Create query interface
 
 ### Phase 7: CLI & Integration
 
-- [ ] Build command-line interface
-- [ ] Create sample documents
-- [ ] Integration testing
+- [x] Build command-line interface
+- [x] Create sample documents
+- [x] Integration testing
 
 ### Phase 8: CI/CD & Containerization
 
-- [ ] Create Dockerfile
-- [ ] Create docker-compose.yml
-- [ ] Set up GitHub Actions CI/CD
-- [ ] Add release workflow
+- [x] Create Dockerfile
+- [x] Create docker-compose.yml
+- [x] Set up GitHub Actions CI/CD
+- [x] Add release workflow
 
 ## Configuration
 
